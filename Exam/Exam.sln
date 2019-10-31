@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 1. Padawan Equipment", "Problem 1. Padawan Equipment\Problem 1. Padawan Equipment.csproj", "{348A9C81-783D-4188-89D5-1F8BE98E36D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 2. Kamino Factory", "Problem 2. Kamino Factory\Problem 2. Kamino Factory.csproj", "{A076BB05-19F6-42A1-9943-7B79173705C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3. Star Enigma", "Problem 3. Star Enigma\Problem 3. Star Enigma.csproj", "{DC3602BA-39C0-4F50-BA34-F760E65F698B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 4. ForceBook MY CORRECT", "Problem 4. ForceBook\Problem 4. ForceBook MY CORRECT.csproj", "{F1F5E550-AFF8-4399-BBF4-EE790003E42E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. ForceBool - CORRECT", "Problem 4. ForceBool - CORRECT\Problem 4. ForceBool - CORRECT.csproj", "{09CCE488-09FB-45A4-B670-F07BF96FF8DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4 ForceBook INCORRECT", "Problem 4 ForceBook INCORRECT\Problem 4 ForceBook INCORRECT.csproj", "{F84CFB7C-BB36-4BC4-B143-E513FAF69F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348A9C81-783D-4188-89D5-1F8BE98E36D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348A9C81-783D-4188-89D5-1F8BE98E36D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348A9C81-783D-4188-89D5-1F8BE98E36D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348A9C81-783D-4188-89D5-1F8BE98E36D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A076BB05-19F6-42A1-9943-7B79173705C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A076BB05-19F6-42A1-9943-7B79173705C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A076BB05-19F6-42A1-9943-7B79173705C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A076BB05-19F6-42A1-9943-7B79173705C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3602BA-39C0-4F50-BA34-F760E65F698B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3602BA-39C0-4F50-BA34-F760E65F698B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3602BA-39C0-4F50-BA34-F760E65F698B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3602BA-39C0-4F50-BA34-F760E65F698B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F5E550-AFF8-4399-BBF4-EE790003E42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F5E550-AFF8-4399-BBF4-EE790003E42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F5E550-AFF8-4399-BBF4-EE790003E42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F5E550-AFF8-4399-BBF4-EE790003E42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CCE488-09FB-45A4-B670-F07BF96FF8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CCE488-09FB-45A4-B670-F07BF96FF8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CCE488-09FB-45A4-B670-F07BF96FF8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CCE488-09FB-45A4-B670-F07BF96FF8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84CFB7C-BB36-4BC4-B143-E513FAF69F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84CFB7C-BB36-4BC4-B143-E513FAF69F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84CFB7C-BB36-4BC4-B143-E513FAF69F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84CFB7C-BB36-4BC4-B143-E513FAF69F03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D2EEFBE-358C-429F-AC8E-D01187F1410E}
+	EndGlobalSection
+EndGlobal
